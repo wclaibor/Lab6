@@ -1,0 +1,15 @@
+{
+  "name": "lab6-wclaibor",
+  "version": "1.0.0",
+  "main": "lab6.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": 
+"https://github.com/wclaibor/Lab6"
+  },
+  "keywords": [
+    "lab6",
+    "server"
+  ]
+}

@@ -1,0 +1,48 @@
+URL path /hello.html
+URL search 
+URL query undefined
+<html>
+<head>
+    <title>Static Example</title>
+  </head>
+  <body>
+    <h1>Hello from a Static File</h1>
+  </body>
+</html>
+
+comment route
+URL path /weather.html
+URL search 
+URL query undefined
+comment route
+comment route
+POST comment route
+URL path /weather.html
+URL search 
+URL query undefined
+URL path /52.10.151.57/getcity.cgi
+URL search ?q=P
+URL query P
+In REST service
+/^P/i
+URL path /52.10.151.57/getcity.cgi
+URL search ?q=P
+URL query P
+In REST service
+/^P/i
+URL path /52.10.151.57/getcity.cgi
+URL search ?q=Pr
+URL query Pr
+In REST service
+/^Pr/i
+URL path /52.10.151.57/getcity.cgi
+URL search ?q=Pro
+URL query Pro
+In REST service
+/^Pro/i
+comment route
+comment route
+POST comment route
+comment route
+POST comment route
+comment route
